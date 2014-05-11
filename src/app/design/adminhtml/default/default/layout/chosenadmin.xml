@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout>
+
+    <default>
+        <reference name="head">
+            <action method="addJs"><script>chosen/chosen.proto.min.js</script></action>
+            <block type="core/template" name="head.chosen" as="chosen" template="chosenadmin/head.phtml"/>
+        </reference>
+    </default>
+
+</layout>

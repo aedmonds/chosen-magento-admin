@@ -1,3 +1,5 @@
 src/app/code/community/MageHackDay/ChosenAdmin/ app/code/community/MageHackDay/ChosenAdmin/
+src/app/design/adminhtml/default/default/layout/chosenadmin.xml app/design/adminhtml/default/default/layout/chosenadmin.xml
+src/app/design/adminhtml/default/default/template/chosenadmin app/design/adminhtml/default/default/template/chosenadmin
 src/app/etc/modules/MageHackDay_ChosenAdmin.xml app/etc/modules/MageHackDay_ChosenAdmin.xml
 src/js/chosen js/chosen

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageHackDay_ChosenAdmin>
+            <version>0.1.0</version>
+        </MageHackDay_ChosenAdmin>
+    </modules>
+    <global>
+        <helpers>
+            <ChosenAdmin>
+                <class>MageHackDay_ChosenAdmin_Helper</class>
+            </ChosenAdmin>
+        </helpers>
+    </global>
+    <default>
+        <admin>
+            <chosenadmin>
+                <active>1</active>
+            </chosenadmin>
+        </admin>
+    </default>
+    <adminhtml>
+        <layout>
+            <updates>
+                <chosenadmin>
+                    <file>chosenadmin.xml</file>
+                </chosenadmin>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>
