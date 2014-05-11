@@ -7,9 +7,9 @@
     </modules>
     <global>
         <helpers>
-            <ChosenAdmin>
+            <chosenadmin>
                 <class>MageHackDay_ChosenAdmin_Helper</class>
-            </ChosenAdmin>
+            </chosenadmin>
         </helpers>
     </global>
     <default>
