@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageHackDay_ChosenAdmin>
+            <active>true</active>
+            <codePool>community</codePool>
+        </MageHackDay_ChosenAdmin>
+    </modules>
+</config>

@@ -1,0 +1,3 @@
+src/app/code/community/MageHackDay/ChosenAdmin/ app/code/community/MageHackDay/ChosenAdmin/
+src/app/etc/modules/MageHackDay_ChosenAdmin.xml app/etc/modules/MageHackDay_ChosenAdmin.xml
+src/js/chosen js/chosen
