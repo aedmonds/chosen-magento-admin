@@ -4,6 +4,7 @@
     <default>
         <reference name="head">
             <action method="addJs"><script>chosen/chosen.proto.min.js</script></action>
+            <action method="addItem"><type>js_css</type><name>chosen/chosen.min.css</name><params/></action>
         </reference>
         <reference name="js">
             <block type="adminhtml/template" template="chosenadmin/init.phtml" name="chosen.init" as="chosen_init"></block>
