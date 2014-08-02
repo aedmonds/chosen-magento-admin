@@ -1,0 +1,9 @@
+{
+    "name": "aedmonds/chosen-magento-admin",
+    "type": "magento-module",
+    "description": "Integrates Chosen library with Magento admin",
+    "homepage": "https://github.com/aedmonds/chosen-magento-admin",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
